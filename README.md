@@ -1,2 +1,1 @@
-hyy my name ayush
-my schooling in bihar
+This is my first code
